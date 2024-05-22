@@ -6,4 +6,3 @@ training.ipynb --> This notebook involves training the pretrained ViT DINO with 
 
 Link to Report: https://drive.google.com/drive/u/3/folders/17chIq1mHzDRa2v2e01bE0cth2WsbDQmV
 
-<a href = "https://drive.google.com/drive/u/3/folders/17chIq1mHzDRa2v2e01bE0cth2WsbDQmV">Report</a>
